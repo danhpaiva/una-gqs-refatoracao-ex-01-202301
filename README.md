@@ -1,4 +1,4 @@
-# Programação de Soluções Computacionais
+# Gestão e Qualidade de Software
 
 ## Revisão - Exercício 01
 
