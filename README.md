@@ -1,6 +1,6 @@
 # Gestão e Qualidade de Software
 
-## Revisão - Exercício 01
+## Fixação - Exercício 01
 
 <p align="center">
   <a href="#">
