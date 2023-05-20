@@ -21,4 +21,7 @@ public class Pessoa {
     System.out.println("\nInforme a sua idade: ");
     pessoa.idade = scanner.nextInt();
   }
+
+public void coletaNome(Scanner scanner) {
+}
 }

@@ -10,14 +10,14 @@ class Programa {
 
     System.out.println("\tRelatório Auxiliar de Controle de Infecções");
 
-    pessoa.coletaNome(sc);
+    pessoa.coletaNome(scanner);
     pessoa.coletaIdade(sc);
 
-    erroTentativas = mensagem.realizaPerguntaVacinaEmDia(pesssoa);
+    erroTentativas = mensagem.realizaPerguntaVacinaEmDia(pessoa);
 
-    validacao.validacaoDasProximasPerguntas(pessoas);
+    validacao.validacaoDasProximasPerguntas(pessoa);
 
-    validacao.calcularValidacaoFinal(erroTentativass);
+    validacao.calcularValidacaoFinal(erroTentativas);
 
     // scanner.close();
   }
