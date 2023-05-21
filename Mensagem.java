@@ -113,4 +113,8 @@ public class Mensagem {
     System.out.println("Não foi possível realizar o ZZZZZZZZZZ." +
         "Gentileza ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ.");
   }
+
+  public boolean realizaPerguntaVacinaEmDia(Pessoa pessoa) {
+    return false;
+  }
 }
