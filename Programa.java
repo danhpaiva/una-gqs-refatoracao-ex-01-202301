@@ -11,7 +11,7 @@ class Programa {
     System.out.println("\tRelatório Auxiliar de Controle de Infecções");
 
     pessoa.coletaNome(scanner);
-    pessoa.coletaIdade(pessoa, scanner);
+    pessoa.coletaIdade(scanner);
 
     erroTentativas = mensagem.realizaPerguntaVacinaEmDia(pessoa);
 
