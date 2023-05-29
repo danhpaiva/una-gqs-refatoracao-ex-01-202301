@@ -36,8 +36,8 @@ public class Validacao {
     }
 
     if (erroTentativas == false) {
-      // erroTentativas = mensagem.realizaPerguntaEstaRetornandoViagemExterior(pessoa,
-      // scanner);
+       erroTentativas = mensagem.realizaPerguntaEstaRetornandoViagemExterior(pessoa,
+       scanner);
     }
   }
 }
