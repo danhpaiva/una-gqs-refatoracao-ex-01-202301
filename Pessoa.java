@@ -9,6 +9,7 @@ public class Pessoa {
   public String estaRetornandoViagem;
   public int porcentagemInfeccao;
   public String orientacaoFinal;
+  public String nome;
 
 
    public void coletaNome(Pessoa pessoa, Scanner scanner) {
